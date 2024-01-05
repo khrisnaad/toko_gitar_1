@@ -1,0 +1,4 @@
+#Thu Jan 05 20:37:40 WIB 2023
+base.0=/Users/dwiromadon/Documents/My Project/Flutter Project/LoginScreen/toko_gitar_tutorial/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
