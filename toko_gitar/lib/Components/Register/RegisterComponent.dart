@@ -34,7 +34,7 @@ class _RegisterComponent extends State<RegisterComponent> {
                 Padding(
                     padding: EdgeInsets.only(left: 10),
                     child: Row(
-                      crossAxisAlignment: CrossAxisAlignment.start,
+                      crossAxisAlignment: crossAxisAlignment.start,
                       children: [
                         Text(
                           "Registrasi !",

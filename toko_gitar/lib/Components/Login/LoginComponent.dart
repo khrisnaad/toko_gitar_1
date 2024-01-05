@@ -29,7 +29,7 @@ class _LoginComponent extends State<LoginComponent> {
                 ),
                 SimpleShadow(
                   child: Image.asset(
-                    "assets/images/guitars.png",
+                    "assets/images/car.png",
                     height: 150,
                     width: 202,
                   ),
